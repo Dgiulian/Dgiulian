@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 I'm Diego a software developer mostly focused on Javascript.
 
-- ⚡ I love working on Typescript and Javascript
-- :iphone: I’m currently learning React Native 
-- 👯 I’m looking to collaborate on any open source project
+- ⚡ Love working on Typescript and Javascript
+- :iphone: Currently learning React Native 
+- 👯 Looking to collaborate on any open source project
 - My hobies are :headphones: and :bike: 
