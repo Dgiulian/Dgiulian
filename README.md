@@ -18,3 +18,5 @@ I'm Diego a software developer mostly focused on Javascript.
 - :iphone: Currently learning React Native 
 - 👯 Looking to collaborate on any open source project
 - My hobies are :headphones: and :bike: 
+
+- Currently learning Go
